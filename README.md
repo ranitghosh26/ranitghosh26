@@ -2,7 +2,7 @@
 <h3 align="center">💻 Passionate Programmer | Java Developer | Problem Solver 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Competitive+Programmer;Frontend+Learner;Open+Source+Enthusiast;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Competitive+Programmer;Problem+Solver+🚀;Machine+Learning(ML)+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" />
 </p>
 
 ---
@@ -23,16 +23,28 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://www.linkedin.com/in/ranitghosh26" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
 </a>
-
+--
+<a href="https://leetcode.com/u/ranitghosh26/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" alt="leetcode" height="40" width="40" />
+</a>
+--
+<a href="https://auth.geeksforgeeks.org/user/ranitghozmwd" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/geeksforgeeks" alt="gfg" height="40" width="40" />
+</a>
+--
+<a href="https://www.hackerrank.com/ranitghosh2019" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="hackerrank" height="40" width="40" />
+</a>
+--
+<a href="https://www.quora.com/profile/Ranit-53" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/quora" alt="quora" height="40" width="40" />
+</a>
+--
 <a href="mailto:yourmail@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://leetcode.com/u/ranitghosh26/">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+<img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" />
 </a>
 </p>
 
