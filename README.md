@@ -70,17 +70,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranitghosh26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranitghosh26&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -90,13 +80,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ranitghosh26&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -106,13 +89,22 @@
 
 ---
 
-# ✨ Random Dev Quote
+<div align="center">
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+# ✨ Developer Motivation ✨
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🙏+God's+Plan.;💻+Code+with+Passion.;🚀+Build+Your+Dream.;🔥+Consistency+Creates+Success.)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranitghosh26&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
+
 
 # 🐍 Contribution Snake
 
