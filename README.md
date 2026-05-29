@@ -43,7 +43,7 @@
 <img align="center" src="https://cdn.simpleicons.org/quora" alt="quora" height="40" width="40" />
 </a>
 --
-<a href="mailto:yourmail@gmail.com">
+<a href="ranitghosh513@gmail.com">
 <img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" />
 </a>
 </p>
